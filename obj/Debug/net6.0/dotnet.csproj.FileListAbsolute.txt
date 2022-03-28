@@ -1,0 +1,15 @@
+/Users/bp/prime/dotnet/bin/Debug/net6.0/dotnet
+/Users/bp/prime/dotnet/bin/Debug/net6.0/dotnet.deps.json
+/Users/bp/prime/dotnet/bin/Debug/net6.0/dotnet.runtimeconfig.json
+/Users/bp/prime/dotnet/bin/Debug/net6.0/dotnet.dll
+/Users/bp/prime/dotnet/bin/Debug/net6.0/dotnet.pdb
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.csproj.AssemblyReference.cache
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfoInputs.cache
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfo.cs
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.dll
+/Users/bp/prime/dotnet/obj/Debug/net6.0/refint/dotnet.dll
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.pdb
+/Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.genruntimeconfig.cache
+/Users/bp/prime/dotnet/obj/Debug/net6.0/ref/dotnet.dll
