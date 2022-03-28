@@ -27,4 +27,31 @@ short s1 = 32000;
 Console.WriteLine(b1 + b1); // This adds b1 and writes to console 
 Console.WriteLine(b1 + s1); // you can add different types of numbers
 
+// ============ Booleans ==============
+bool hello = true;
+bool goodbye = false;
+
+Console.WriteLine(goodbye ? "I'm arriving" : "I'm leaving");
+Console.WriteLine(hello ? "I'm arriving" : "I'm leaving");
+
+// if else ============
+
+
+
+if (hello)
+{
+    Console.WriteLine("Inside if loop");
+}
+
+int i = 10, j = 20;
+
+if (i > j)
+{
+    Console.WriteLine("i is less than j");
+}        
+
+else
+{
+    Console.WriteLine("inside else I am");
+}
 
