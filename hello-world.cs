@@ -48,10 +48,34 @@ int i = 10, j = 20;
 if (i > j)
 {
     Console.WriteLine("i is less than j");
-}        
+}
 
 else
 {
     Console.WriteLine("inside else I am");
 }
 
+
+switch (i)
+{
+    case < 0:
+        Console.WriteLine("I is less than 0");
+        break;
+
+    case > 11:
+        Console.WriteLine("I is greater than 11");
+        break;
+
+    case 10:
+        Console.WriteLine("I is equivalent to 10");
+        break;
+    default:
+    Console.WriteLine("Default hit");
+    break; 
+
+}
+
+// Array with strings inside
+string[] stringArray1 = { "Hello", "World"};
+
+Console.WriteLine(stringArray1[0] + stringArray1[1]);

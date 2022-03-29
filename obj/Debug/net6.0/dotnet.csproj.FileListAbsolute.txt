@@ -9,7 +9,7 @@
 /Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfo.cs
 /Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.csproj.CoreCompileInputs.cache
 /Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.dll
-/Users/bp/prime/dotnet/obj/Debug/net6.0/refint/dotnet.dll
 /Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.pdb
 /Users/bp/prime/dotnet/obj/Debug/net6.0/dotnet.genruntimeconfig.cache
 /Users/bp/prime/dotnet/obj/Debug/net6.0/ref/dotnet.dll
+/Users/bp/prime/dotnet/obj/Debug/net6.0/refint/dotnet.dll
