@@ -104,5 +104,11 @@ Console.WriteLine("I Just got executed!");
     Car myObj = new Car();
     Console.WriteLine(myObj.color);
     MyMethod();
+
+    int flower = 3;
+    int petal =2;
+
+    Console.WriteLine(3/2);
+    Console.WriteLine(flower/petal);
   }
 }
